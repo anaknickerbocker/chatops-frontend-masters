@@ -23,5 +23,4 @@ const postNewNotionItemsToSlack: Handler = async () => {
   return { statusCode: 200 };
 };
 
-// export const handler = schedule('0 9 * * 1', postNewNotionItemsToSlack);
-export const handler = schedule('* * * * *', postNewNotionItemsToSlack);
+export const handler = schedule('0 9 * * 1', postNewNotionItemsToSlack);
