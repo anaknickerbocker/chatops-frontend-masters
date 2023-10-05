@@ -42,9 +42,9 @@ Is your workday going too smoothly? Everyone is being productive and that makes 
 
 - Is sous vide an acceptable way to cook a burger?
 - Does mayonnaise go on french fries?
-- Wnat to convince everyone that pineapple belongs on pizza?
+- Want to convince everyone that pineapple belongs on pizza?
 
-Make your spiciest assertions and watch your team devolve into culinary fisticuffs. With Food Fight, remind your cowordkers that you are an agent of chaos!
+Make your spiciest assertions and watch your team devolve into culinary fisticuffs. With Food Fight, remind your coworkers that you are an agent of chaos!
 
 ### Notion
 
